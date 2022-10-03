@@ -570,6 +570,8 @@ img {
   line-height: 1.25;
   color: var(--footer-color);
 
+  cursor: pointer;
+
   transition: border-color var(--timing-duration) var(--cubic);
 }
 
